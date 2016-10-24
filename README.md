@@ -1,5 +1,5 @@
 # Dynamic-Content-In-Github
-Even though Github does not allow dynamic website, following this diagram is a good approach to deliver dynamic content to GitHub. This diagram, basically, explain how to connect your live website with a local backend on your computer that can commit changes to your GitHub repo.
+Even though GitHub does not allow dynamic website, following this diagram is a good approach to deliver dynamic content to GitHub. This diagram, basically, explain how to connect your live website with a local back-end on your computer that can commit changes to your GitHub repo.
 
 With this approach, you can develop a backend that can make changes to your website visually or by fields delivered from a local database. This is very similar to Jekyll but more customizable.
 
